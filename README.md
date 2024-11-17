@@ -18,8 +18,16 @@
 
 # Goals
 
+Fill in project goals
+
 # Data
+
+Discuss the dataset
 
 # Models
 
+What models are we working with to complete this project
+
 # Timeline
+
+When are key dates and deadlines
